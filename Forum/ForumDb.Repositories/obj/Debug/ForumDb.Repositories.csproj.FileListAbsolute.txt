@@ -1,0 +1,24 @@
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Repositories.dll.config
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Repositories.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Repositories.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\EntityFramework.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\EntityFramework.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\obj\Debug\ForumDb.Repositories.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\obj\Debug\ForumDb.Repositories.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\obj\Debug\ForumDb.Repositories.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Data.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Models.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Data.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Models.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Repositories.dll.config
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Repositories.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Repositories.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Data.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Models.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Data.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\ForumDb.Models.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\obj\Debug\ForumDb.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\obj\Debug\ForumDb.Repositories.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Repositories\obj\Debug\ForumDb.Repositories.pdb

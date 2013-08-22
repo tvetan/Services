@@ -1,0 +1,74 @@
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Services.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Services.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\Antlr3.Runtime.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\EntityFramework.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Data.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Models.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Repositories.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\Newtonsoft.Json.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Net.Http.Formatting.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Helpers.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Http.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Http.WebHost.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Mvc.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Optimization.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Providers.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Razor.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Deployment.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.WebPages.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Razor.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\WebGrease.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Data.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Models.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\ForumDb.Repositories.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\EntityFramework.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\Newtonsoft.Json.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Net.Http.Formatting.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Helpers.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Http.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Http.WebHost.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Mvc.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.Razor.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.WebPages.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Deployment.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Razor.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\obj\Debug\ForumDb.Services.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\obj\Debug\ForumDb.Services.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Services\obj\Debug\ForumDb.Services.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Services.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Services.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\Antlr3.Runtime.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\EntityFramework.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Data.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Models.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Repositories.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Helpers.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Http.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Mvc.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Optimization.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Providers.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Razor.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.WebPages.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\WebGrease.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Data.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Models.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\ForumDb.Repositories.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\EntityFramework.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Helpers.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Http.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Mvc.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.Razor.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.WebPages.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\obj\Debug\ForumDb.Services.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\obj\Debug\ForumDb.Services.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Services\obj\Debug\ForumDb.Services.pdb

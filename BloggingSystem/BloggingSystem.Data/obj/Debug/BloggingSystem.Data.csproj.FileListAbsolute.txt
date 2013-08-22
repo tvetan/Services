@@ -1,0 +1,10 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Data.dll.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Data.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Data.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Models.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Models.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\obj\Debug\BloggingSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\obj\Debug\BloggingSystem.Data.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\ServicesExam\BloggingSystem.Data\obj\Debug\BloggingSystem.Data.pdb

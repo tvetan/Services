@@ -1,0 +1,20 @@
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Data.dll.config
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Data.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Data.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\bin\Debug\EntityFramework.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Models.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Models.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\bin\Debug\EntityFramework.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\obj\Debug\ForumDb.Data.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\obj\Debug\ForumDb.Data.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Data\obj\Debug\ForumDb.Data.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Data.dll.config
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Data.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Data.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\bin\Debug\EntityFramework.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Models.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\bin\Debug\ForumDb.Models.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\bin\Debug\EntityFramework.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\obj\Debug\ForumDb.Data.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\obj\Debug\ForumDb.Data.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Data\obj\Debug\ForumDb.Data.pdb

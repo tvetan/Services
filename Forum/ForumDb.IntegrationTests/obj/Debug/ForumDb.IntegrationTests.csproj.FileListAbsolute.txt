@@ -1,0 +1,52 @@
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.IntegrationTests.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.IntegrationTests.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Models.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Repositories.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Services.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\EntityFramework.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Optimization.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Data.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\WebGrease.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\Antlr3.Runtime.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Models.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Repositories.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Services.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\EntityFramework.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Data.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\obj\Debug\ForumDb.IntegrationTests.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\obj\Debug\ForumDb.IntegrationTests.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\obj\Debug\ForumDb.IntegrationTests.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.IntegrationTests.dll.config
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.IntegrationTests.dll.config
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.IntegrationTests.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.IntegrationTests.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Models.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Repositories.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Services.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\EntityFramework.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Data.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\WebGrease.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Models.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Repositories.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Services.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\EntityFramework.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\ForumDb.Data.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\obj\Debug\ForumDb.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\obj\Debug\ForumDb.IntegrationTests.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.IntegrationTests\obj\Debug\ForumDb.IntegrationTests.pdb

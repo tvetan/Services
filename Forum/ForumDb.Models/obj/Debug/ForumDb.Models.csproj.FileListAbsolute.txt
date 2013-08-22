@@ -1,0 +1,10 @@
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Models\bin\Debug\ForumDb.Models.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Models\bin\Debug\ForumDb.Models.pdb
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Models\obj\Debug\ForumDb.Models.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Models\obj\Debug\ForumDb.Models.dll
+D:\Dropbox\Telerik - Denis\Telerik Homeworks\Web Services and Cloud\SampleExam\ForumDb.Models\obj\Debug\ForumDb.Models.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Models\bin\Debug\ForumDb.Models.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Models\bin\Debug\ForumDb.Models.pdb
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Models\obj\Debug\ForumDb.Models.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Models\obj\Debug\ForumDb.Models.dll
+C:\Users\academy\Desktop\Exam Mats\Web Services\HWs\SampleExam\ForumDb.Models\obj\Debug\ForumDb.Models.pdb
