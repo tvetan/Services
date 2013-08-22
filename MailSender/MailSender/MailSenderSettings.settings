@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MailSender" GeneratedClassName="MailSenderSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tvetan.mailgun.org</Value>
+    </Setting>
+    <Setting Name="ApiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">key-549x1r09f4dekd02o6oq3xmhyy2uv5m0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
