@@ -1,0 +1,22 @@
+Attempt by security transparent method 'System.Web.Http.GlobalConfiguration.get_Configuration()'
+ to access security critical type 'System.Web.Http.HttpConfiguration' failed
+
+Намерих workaround, който не знам колко е надежден, но при мен проработи:
+
+В web.config файла намирате <system.webServer> тага и в него слагате следното:
+
+<httpProtocol>
+    <customHeaders>
+      <add name="Access-Control-Allow-Origin" value="*" />
+      <add name="Access-Control-Allow-Methods" value="GET,PUT,POST,DELETE" />
+      <add name="Access-Control-Allow-Headers" value="Content-Type" />
+    </customHeaders>
+</httpProtocol>
+ 
+Един вид ръчно си казвате сървъра какви неща приема. Ако искате да
+ поддържа други заявки освен CRUD операциите, трябва да ги добавите в Access-Control-Allow-Methods.
+ 
+Забелязах, че днес Microsoft са правили update на пакета (явно са го прецакали нещо).
+ 
+Edit: Забравих да кажа. Това нещо го правите без да
+ сте инсталирали NuGet пакета, защото с uninstall не се оправя.
